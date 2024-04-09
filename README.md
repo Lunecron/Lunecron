@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Webdevelopment specificly React<br>🎯 Goals: Complete my private webside</p>
+<p align="left">📚 I'm currently learning Webdevelopment specificly React<br>🎯 Goals: Complete my private website</p>
 
 ###
 
